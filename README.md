@@ -1,3 +1,3 @@
 # SimpleAnti-StuckNoBlock
 
-https://forums.alliedmods.net/showthread.php?p=2177167
+https://forums.alliedmods.net/showthread.php?p=1849534
